@@ -4,6 +4,11 @@
 </p>
 
 <h1 align="center"> API de ticket de suporte </h1>
+
+<p align="center">
+  <img alt="API" src="./github/API.png" width="15%">
+</p>
+
 <h2>## Sobre:</h2>
 <p align="center">
 API para gerenciar ticket de suporte técnico, permitindo criar um ticket solicitando suporte, atualizar as informações do ticket, listar os tickets podendo filtrar pelo status e atualizar o status de um ticket para fechado.
